@@ -1,0 +1,26 @@
+{
+    "autoUpdate": false, // true or false, true if you update, false if you not
+    "token": "123 don't edit this", // in .env file insert bot token
+    "prefix": "as!",
+    "Admin": "522762791619264533",
+    "osuAPI": {
+        "client_id": "824609398856351784",
+        "client_secret": "",
+        "typeof client_id": "number",
+        "typeof client_secret": "string"
+    },
+    "mongoPath": "insert your mognodb url",
+    "youtubecookie": "",
+    "oauthv2link": "",
+    "loglevel": "message",
+    "Vaild value for loglevel": "message / error / none",
+    "version": "v2.0.0",
+    "versstatus": "STABLE",
+    "vlastupdate": "07-Jan-22 / 16:26h",
+    "uzrecica": "Simple - Flexible bot",
+    "botboja": "#1f2128",
+    "botinfo": "https://i.ibb.co/ZK9SYMT/botinfo.png",
+    "musicbotslikakraj": "https://i.ibb.co/cYTYx7v/musicbot.png",
+    "musicbotslika": "https://i.ibb.co/SsYFzyS/musicbotstandard.png",
+    "descofupdate": "New message design, shortcuts for commands, eg 'as!play -> as!p', better optimization, new logo and new photo designs"
+}
